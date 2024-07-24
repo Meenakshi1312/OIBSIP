@@ -1,0 +1,14 @@
+body {
+    background-color: #bddeff;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#result {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
